@@ -1,0 +1,17 @@
+export const SCREEN = {
+  HOME: "Home",
+  BASIC_BAR_GRAPH: "Basic Bar Graph",
+  GROUPED_BAR_GRAPH: "Grouped Bar Graph",
+  EVENT_HANDLER_BAR_GRAPH: "Event Handler Bar Graph",
+  CUSTOMIZED_SHAPE_BAR_GRAPH: "Customized Shape Bar Graph",
+  BASIC_LINE_GRAPH: "Basic Line Graph",
+  MULTILINE_LINE_GRAPH: "Multiline Line Graph",
+  CUSTOMIZED_CURVE_LINE_GRAPH: "Customized Curve Line Graph",
+  CUSTOMIZED_DECORATOR_LINE_GRAPH: "Customized Decorator Line Graph",
+  AREA_GRAPH: "Area Graph",
+  STACKED_AREA_GRAPH: "Stacked Area Graph",
+  PIE_CHART: "Pie Chart",
+  TWO_LEVEL_PIE_CHART: "Two Level Pie Chart",
+  CUSTOMIZED_SHAPE_PIE_CHART: "Customized Shape Pie Chart",
+  CIRCLE_CHART: "Circle Series",
+};
